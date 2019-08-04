@@ -1,0 +1,6 @@
+1.install package installer(if not installed)
+2.theme - Material theme
+3.color scheme - predawn
+4.SideBarEnhancements
+5.BracketHighlighter
+6.Anaconda
